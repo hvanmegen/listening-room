@@ -1,0 +1,22 @@
+# Local environment configuration
+.env
+
+# Private song content
+/library/*
+!/library/.gitkeep
+
+# Generated public cover cache
+/public/cache/covers/*
+!/public/cache/covers/.gitkeep
+
+# Runtime logs
+/logs/*
+!/logs/.gitkeep
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

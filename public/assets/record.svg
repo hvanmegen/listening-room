@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path id="record" d="M200,15C97.88,15 15,97.88 15,200C15,302.12 97.88,385 200,385C302.12,385 385,302.12 385,200C385,97.88 302.12,15 200,15Z" style="fill-rule:nonzero;"/>
+    <path id="center-circle" d="M200,132.656C162.841,132.656 132.656,162.841 132.656,200C132.656,237.159 162.841,267.344 200,267.344C237.159,267.344 267.344,237.159 267.344,200C267.344,162.841 237.159,132.656 200,132.656Z" style="fill:rgb(80,80,80);fill-rule:nonzero;"/>
+    <path id="circumference" d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.56px;"/>
+    <g id="shine-bottom" transform="matrix(-1,-7.65714e-16,7.65714e-16,-1,400,400)">
+        <path d="M106.438,200C106.438,148.349 148.349,106.406 200,106.406L200,18.563C99.851,18.563 18.562,99.851 18.563,200L106.438,200Z" style="fill:url(#_Radial1);fill-rule:nonzero;"/>
+    </g>
+    <path id="shine-top" d="M106.438,200C106.438,148.349 148.349,106.406 200,106.406L200,18.563C99.851,18.563 18.562,99.851 18.563,200L106.438,200Z" style="fill:url(#_Radial2);fill-rule:nonzero;"/>
+    <g id="outline" transform="matrix(1,0,0,1,0.000975,-0.000975)">
+        <path d="M200,132.688C237.167,132.688 267.313,162.833 267.313,200C267.313,237.167 237.167,267.314 200,267.314C162.833,267.314 132.686,237.167 132.686,200C132.686,162.833 162.833,132.688 200,132.688Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3px;"/>
+    </g>
+    <g id="groove-separator" transform="matrix(0.973353,0,0,0.973353,5.32948,5.32948)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.62px;"/>
+    </g>
+    <g id="groove-separator1" serif:id="groove-separator" transform="matrix(0.920058,0,0,0.920058,15.9884,15.9884)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.65px;"/>
+    </g>
+    <g id="groove-separator2" serif:id="groove-separator" transform="matrix(0.863908,0,0,0.863908,27.2184,27.2184)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.69px;"/>
+    </g>
+    <g id="groove-separator3" serif:id="groove-separator" transform="matrix(0.776088,0,0,0.776088,44.7824,44.7824)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.77px;"/>
+    </g>
+    <g id="groove-separator4" serif:id="groove-separator" transform="matrix(0.710685,0,0,0.710685,57.8629,57.8629)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.84px;"/>
+    </g>
+    <g id="groove-separator5" serif:id="groove-separator" transform="matrix(0.524154,0,0,0.524154,95.1693,95.1693)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.06px;"/>
+    </g>
+    <g id="groove-separator6" serif:id="groove-separator" transform="matrix(0.608854,0,0,0.608854,78.2291,78.2291)">
+        <path d="M200,16.781C301.156,16.781 383.219,98.844 383.219,200C383.219,301.156 301.156,383.219 200,383.219C98.844,383.219 16.781,301.156 16.781,200C16.781,98.844 98.844,16.781 200,16.781Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.06px;"/>
+    </g>
+    <g id="path3223" transform="matrix(1.17698,0,0,1.17698,-35.3967,-35.3968)">
+        <path d="M237.963,162.037C217.01,141.085 182.99,141.085 162.037,162.037C141.085,182.99 141.085,217.01 162.037,237.963C182.99,258.915 217.01,258.915 237.963,237.963C258.915,217.01 258.915,182.99 237.963,162.037Z" style="fill:url(#_Radial3);fill-rule:nonzero;"/>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-80.437,80.437,-181.437,-181.437,18.5625,18.5625)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.52" style="stop-color:white;stop-opacity:0.27"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-80.437,80.437,-181.437,-181.437,18.5625,18.5625)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.52" style="stop-color:white;stop-opacity:0.27"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,154.237,-53.6875,0,200,200)"><stop offset="0" style="stop-color:rgb(247,247,247);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(225,225,225);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
